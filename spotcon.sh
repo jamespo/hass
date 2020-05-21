@@ -5,7 +5,7 @@
 
 USAGE="USAGE: spotcon.sh [prev|next|playpause]"
 
-# get URL & auth details
+# get URL & auth details - see https://developers.home-assistant.io/docs/api/rest/
 # example contents:
 # HATOKEN="eyJ0eXAiOiJKV1QiLasdawerkKLJIUOW897987uoiHNkjlhn89798"
 # URL=http://192.168.0.10:8199
